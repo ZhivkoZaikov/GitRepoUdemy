@@ -3,5 +3,9 @@ git init               --  initialize new git locally
 git status             --  check te status
 
 git add filename.txt   --  add the file to the git locally
+git add *.html         --  add all files with .html extension
+git aaa -A             --  adds all files and folders, including the hidden ones
+
 
 git log                --  check the history of the latest git
+
