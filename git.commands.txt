@@ -4,4 +4,4 @@ git status             --  check te status
 
 git add filename.txt   --  add the file to the git locally
 
-
+git log                --  check the history of the latest git
