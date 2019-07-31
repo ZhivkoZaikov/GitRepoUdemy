@@ -1,0 +1,7 @@
+git init               --  initialize new git locally
+
+git status             --  check te status
+
+git add filename.txt   --  add the file to the git locally
+
+
